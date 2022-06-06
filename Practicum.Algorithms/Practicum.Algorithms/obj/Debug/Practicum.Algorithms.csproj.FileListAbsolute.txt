@@ -1,0 +1,8 @@
+C:\git\For-Any-Trash\Practicum.Algorithms\Practicum.Algorithms\bin\Debug\Practicum.Algorithms.exe.config
+C:\git\For-Any-Trash\Practicum.Algorithms\Practicum.Algorithms\bin\Debug\Practicum.Algorithms.exe
+C:\git\For-Any-Trash\Practicum.Algorithms\Practicum.Algorithms\bin\Debug\Practicum.Algorithms.pdb
+C:\git\For-Any-Trash\Practicum.Algorithms\Practicum.Algorithms\obj\Debug\Practicum.Algorithms.csproj.AssemblyReference.cache
+C:\git\For-Any-Trash\Practicum.Algorithms\Practicum.Algorithms\obj\Debug\Practicum.Algorithms.csproj.SuggestedBindingRedirects.cache
+C:\git\For-Any-Trash\Practicum.Algorithms\Practicum.Algorithms\obj\Debug\Practicum.Algorithms.csproj.CoreCompileInputs.cache
+C:\git\For-Any-Trash\Practicum.Algorithms\Practicum.Algorithms\obj\Debug\Practicum.Algorithms.exe
+C:\git\For-Any-Trash\Practicum.Algorithms\Practicum.Algorithms\obj\Debug\Practicum.Algorithms.pdb
